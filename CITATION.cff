@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Foundation Vision Benchmark
+message: >-
+  If you use this repository, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Roboflow
+    email: support@roboflow.com
+repository-code: 'https://github.com/roboflow/foundation-vision-benchmark'
+abstract: >-
+  The Roboflow Foundation Vision Benchmark is a qualitative
+  set of tests for use in evaluating Large Multimodal
+  Models (LMMs).
+keywords:
+  - computer vision
+license: MIT
