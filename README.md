@@ -17,6 +17,7 @@ This repository contains several tests we have run on foundation vision models t
 | Classification   | What is in the image? Return the class of the object in the image. Here are the classes: Tesla Model 3, Toyota Camry. You can only return one class from that list. | ![Image Example](https://lh7-us.googleusercontent.com/-sp5y_4HnZrQeqbC4Ufb-CnHDBkG1uZT5E-A6LDEItuFzk4rxkoC-RFyL7xuzGKJZ029Zwbcyvip-dHrFX8lCbW7da1MRK97bORbaVrZdiUzRFhoSM-bwp3TgoNJKUxQHuMcC9fJpHAyLnaO1ig_MlQ)  |
 | Classification   | What is in the image? Return the class of the object in the image. Here are the classes: pizza, deep dish pizza. You can only return one class from that list. | ![Image Example](https://lh7-us.googleusercontent.com/dxD4vgo4fMWSF32Uxh6eB8Bjj85Gfrm9lgSgCuH0KWJYhv4khZ9SfC9OMpOB0ResXi8npF5gEL3A0GZC9sqq-V-NlM19WBn1GIop59IdPqUbO29FhUvCbVZJZkZmjsAWM6BCEbTCNoK22hezBSD_sKo)  |
 | Optical Character Recognition (Documents)   | Read the text in the image. | ![Image Example](https://media.roboflow.com/swift.png)  |
+| Object Detection | Detect a dog on the image. Provide me with x_min_y_min, x_max and y_max coordinates. | ![Image Example](https://media.roboflow.com/dog.jpeg) |
 
 ## 🧪 Test Surface Area
 
