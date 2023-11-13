@@ -39,6 +39,10 @@ We also recommend testing visual question answering (asking general questions ab
 - Comprehensiveness: Does a model provide a comprehensive answer to your question? Are details missed?
 - Consistently: Does a model consistently answer questions it can answer? Does a model say it cannot help with a question with which it has previously helped?
 
+## ⚠️ Limitations
+
+Given the vast array of possibilities with vision models, no set of tests, this one included, can comprehensively evaluate what a model can do; this repository is a starting point for exploration.
+
 ## 🦸 Contribute
 
 We would love your help in making this repository even better! Whether you want to
